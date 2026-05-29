@@ -1,0 +1,46 @@
+ID,O estudo utilizou qual conjunto/instrumento heurístico?,Como o conjunto/instrumento heurístico utilizado é classificado?,O estudo buscou qual finalidade em usar o conjunto/instrumento heurístico? ,O conjunto/instrumento heurístico possui validação reportada?,Quais limitações do conjunto/instrumento heurístico foram reportadas no estudo?
+E1,Protocolo de avaliação heuristica,Novo,Aplicação guiada / protocolo,Sem validação,Sem validação empírica
+E2,Heurísticas HUbis,Adaptado,Combinação ou comparação de conjuntos heurísticos,Validado,Tempo de avaliação
+E3,Heuristicas PGHD,Novo,Proposição de novo conjunto / heurística,Sem validação,Sem validação empírica
+E4,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E5,Heurísticas para desenvolvimento de jogos,Novo,Proposição de novo conjunto / heurística,Sem validação,Sem validação empírica
+E6,Lista de verificação heurística (Nielsen),Adaptado,Aplicação guiada / protocolo,Validado no  estudo,Cobertura ampla ou limitada
+E7,Heurísticas SMART,Adaptado,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E8,Heurísticas de Nielsen,Clássico,Combinação ou comparação de conjuntos heurísticos,Validado,Sem validação empírica
+E9,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E10,Heurísticas GADDIE,Novo,Proposição de novo conjunto / heurística,Sem validação,Cobertura ampla ou limitada
+E11,Múltiplos conjuntos (Nielsen + Miranda),Adaptado,Combinação ou comparação de conjuntos heurísticos,Validado,Sem limitações
+E12,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E13,Múltiplos conjuntos (Nielsen + SMART),Clássico; Adaptado,Combinação ou comparação de conjuntos heurísticos,Validado,Cobertura ampla ou limitada
+E14,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E15,Protocolo de avaliação heurística,Novo,Aplicação guiada / protocolo,Validado,Sem limitações
+E16,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E17,Heurísticas de Granollers,Adaptado,Comparação entre avaliadores,Validado,Sem limitações
+E18,Heurísticas HUbis,Adaptado,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E19,Heurísticas para gêneros de jogos,Novo,Proposição de novo conjunto / heurística,Validado no  estudo,Cobertura ampla ou limitada
+E20,Heurísticas SMART,Adaptado,Comparação entre avaliadores,Validado,Sem limitações
+E21,Heurísticas de Granollers,Adaptado,Proposição de novo conjunto / heurística,Sem validação,Sem validação empírica
+E22,Múltiplos conjuntos (Nielsen + Victorelli e Reis),Clássico; Novo,Combinação ou comparação de conjuntos heurísticos,Validado,Cobertura ampla ou limitada
+E23,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E24,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E25,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E26,Heurísticas PWAUH,Novo,Proposição de novo conjunto / heurística,Validado no  estudo,Cobertura ampla ou limitada
+E27,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E28,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Cobertura ampla ou limitada
+E29,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E30,Múltiplos conjuntos (Nielsen - 3 heurísticas;  Sutcliffe & Gault (2004): 3 heurísticas; Muñoz et al. (2011): 3 heurísticas) - RV,Clássico; Adaptado,Combinação ou comparação de conjuntos heurísticos,Validado no  estudo,Cobertura ampla ou limitada
+E31,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E32,"Múltiplos conjuntos (Lei de Hick, Lei de Fitts e o Princípio dos 3 Cliques)",Clássico,Aplicação guiada / protocolo,Validado,Cobertura ampla ou limitada
+E33,Ferramenta computacional de apoio,Novo,Validação de ferramenta computacional,Validado,Sem limitações
+E34,Heurísticas de Nielsen,Clássico,Comparação entre avaliadores,Validado,Cobertura ampla ou limitada
+E35,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E36,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E37,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E38,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E39,"Heurísticas de Aker, Rızvanoğlu e Bostan - Jogos",Adaptado,Avaliação de usabilidade e experiência do usuário,Validado,Cobertura ampla ou limitada
+E40,Heurísticas de Nielsen,Clássico,Aplicação guiada / protocolo,Validado,Cobertura ampla ou limitada
+E41,Lista de verificação heurística (Nielsen/Pierotti),Adaptado,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E42,Heurísticas para e-Learning,Novo,Proposição de novo conjunto/heurística,Validado no  estudo,Sem limitações
+E43,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E44,Heurísticas de Nielsen,Clássico,Avaliação de usabilidade e experiência do usuário,Validado,Sem limitações
+E45,Heurísticas de Dowding e Merrill - Visualização da informação,Adaptado,Avaliação de usabilidade e experiência do usuário,Validado,Cobertura ampla ou limitada
